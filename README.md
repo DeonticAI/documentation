@@ -58,14 +58,18 @@ Is your requirement clear and unambiguous? The feedback not only highlights poss
 #### Referral Detected
 Does your requirement refer to an external source, such as another requirement or document, a piece of legislation or a standard? In some cases, it may be preferable to remove this referral to make the requirement more easily understandable and less ambiguous.
 
+<img width="1129" alt="Screenshot 2025-01-24 at 13 21 31" src="https://github.com/user-attachments/assets/364cb7ce-6498-4066-9113-6afe1928e524" />
+
+
 #### Split
 Is your requirement atomic, or does it refer to multiple capabilities or functionalities? If so, it is advisable to split it up into multiple requirements. The tool will also suggest what these could look like.
 Conflicting Requirements
 
 <img width="1130" alt="Screenshot 2025-01-24 at 13 15 27" src="https://github.com/user-attachments/assets/904325f3-d722-4cc4-b74f-551dfc868264" />
 
-
 ### Resolve Conflict
+
+Does your requirement conflict with other requirements? If the platform detects a potential conflict, you can click the relevant requirements. The dialog will show their description, and also explain why our software thinks this is a conflict.
 
 <img width="1132" alt="Screenshot 2025-01-24 at 13 13 46" src="https://github.com/user-attachments/assets/ef8dc34f-8247-40c6-b800-f0213665ffbe" />
 
@@ -81,9 +85,9 @@ If our tool provides both `Clarify` and `Split` feedback, you will see a suggest
 
 
 ### Submitting Feedback
-When you’re happy with a requirement, click the `Create` button. Since the goal of this demo is to collect your feedback on its reviewing capabilities, you cannot click `Create` without first clicking `Review`.
+When you’re happy with a requirement, enter your final requiremen in the `Description` field and click the `Create` button. Since the goal of this demo is to collect your feedback on its reviewing capabilities, you cannot click `Create` without first clicking `Review`.
 
-When you click the `Create` button, a review form will appear that invites you to give feedback on the requirement review. First, this form will show you your original requirement and your final requirement. Next, it asks several questions:
+When you click the `Create` button, a review form will appear that invites you to give feedback on the requirement review. First, this form will show you your original requirement and your final requirement, if you have entered this final requirement in the `Description field`. Next, it asks several questions:
 
 1. Is the final requirement better than the original one?
 2. Were the suggestions provided by the tool useful?
