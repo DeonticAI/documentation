@@ -13,7 +13,7 @@ Please use the email address and password we have created for you. If you have n
 
 After logging on, you will see a table with the requirements currently in the database. These are dummy requirements that have been created by Deontic. 
 
-For this demo, the requirement table is kept static. This means the requirements you enter, are not added to the table. We do keep the requirements you submit together with your feedback, so please do not share any sensitive information.
+:warning: **For this demo, the requirement table is kept static. This means the requirements you enter, are not added to the table. We do keep the requirements you submit together with your feedback, so please do not share any sensitive information.**
 
 <img width="1418" alt="Screenshot 2025-01-24 at 13 11 10" src="https://github.com/user-attachments/assets/e397536a-92ce-4c7b-a130-212f770ea1d6" />
 
@@ -50,7 +50,7 @@ Our tool reviews several aspects of your requirement:
 
 Does your requirement potentially overlap with one or more requirements that are already in the requirement table? You can check each of the potential duplicates by clicking them. The dialog that appears will not only show you the description of that requirement, but also explain why the tool thinks this requirement is a potential duplicate of yours.
 
-:warning: Note that your requirement is compared with the dummy requirements in the requirement table only, not with any Volvo requirements or requirements you have entered before.
+:warning: **Note that your requirement is compared with the dummy requirements in the requirement table only, not with any Volvo requirements or requirements you have entered before.**
 
 <img width="1132" alt="Screenshot 2025-01-24 at 13 13 15" src="https://github.com/user-attachments/assets/6bb7b287-bb1c-4b33-825f-3ec284411e58" />
 
@@ -75,6 +75,8 @@ Does your requirement refer to multiple capabilities or functionalities? If so, 
 #### 3.2.5 Resolve Conflict
 
 Does your requirement conflict with other requirements? If the tool detects a potential conflict, you can click the relevant requirements. The dialog will show their description, and also explain why our software thinks this is a conflict.
+
+:warning: **Note that your requirement is compared with the dummy requirements in the requirement table only, not with any Volvo requirements or requirements you have entered before.**
 
 <img width="1132" alt="Screenshot 2025-01-24 at 13 13 46" src="https://github.com/user-attachments/assets/ef8dc34f-8247-40c6-b800-f0213665ffbe" />
 
