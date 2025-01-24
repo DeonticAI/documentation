@@ -50,6 +50,8 @@ Our tool reviews several aspects of your requirement:
 
 Does your requirement potentially overlap with one or more requirements that are already in the requirement table? You can check each of the potential duplicates by clicking them. The dialog that appears will not only show you the description of that requirement, but also explain why the tool thinks this requirement is a potential duplicate of yours.
 
+:warning: Note that your requirement is compared with the dummy requirements in the requirement table only, not with any Volvo requirements or requirements you have entered before.
+
 <img width="1132" alt="Screenshot 2025-01-24 at 13 13 15" src="https://github.com/user-attachments/assets/6bb7b287-bb1c-4b33-825f-3ec284411e58" />
 
 #### 3.2.2 Clarify
@@ -66,11 +68,11 @@ Does your requirement refer to an external source, such as another requirement o
 
 #### 3.2.4 Split
 
-Is your requirement atomic, or does it refer to multiple capabilities or functionalities? If so, it is advisable to split it up into multiple requirements. The tool will suggest what these could look like.
+Does your requirement refer to multiple capabilities or functionalities? If so, it is advisable to split it up into multiple atomic requirements. The tool will suggest what these could look like.
 
 <img width="1130" alt="Screenshot 2025-01-24 at 13 15 27" src="https://github.com/user-attachments/assets/904325f3-d722-4cc4-b74f-551dfc868264" />
 
-### 3.2.5 Resolve Conflict
+#### 3.2.5 Resolve Conflict
 
 Does your requirement conflict with other requirements? If the tool detects a potential conflict, you can click the relevant requirements. The dialog will show their description, and also explain why our software thinks this is a conflict.
 
