@@ -32,10 +32,10 @@ To write a new requirement, click the `Create` button to the top right of the re
 For every requirement you create, you need to provide the following pieces of information:
 
 - Title: a title for the requirement.
-- Requirement level: ‘Stakeholder’, ‘System’, or ‘Subsystem’. This choice will influence the feedback you get for a requirement: ‘stakeholder’ requirements are more high-level, whereas ‘system’ or ‘subsystem’ requirements are more specific and need to be verifiable.
+- Requirement level: `Stakeholder`, `System`, or `Subsystem`. This choice will influence the feedback you get for a requirement: `stakeholder` requirements are more high-level, whereas `system` or `subsystem` requirements are more specific and must be verifiable.
 - Description: the actual requirement
 
-If you have filled in all three fields, click ‘Review’.
+If you have filled in all three fields, click `Review`.
 
 <img width="1147" alt="Screenshot 2025-01-24 at 13 12 55" src="https://github.com/user-attachments/assets/be33ab9e-12cc-4188-ba9c-78211c51a7f3" />
 
