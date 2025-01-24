@@ -52,7 +52,7 @@ Does your requirement potentially overlap with one or more requirements that are
 
 
 #### Clarify
-Is your requirement clear and unambiguous? The feedback not only highlights possibly problematic words and phrases, but will also suggest an improvement.
+Is your requirement clear and unambiguous? The feedback not only highlights possibly problematic words and phrases, but will also suggest an improvement. If you like it, you can copy the suggestion by clicking the `Copy` icon to its right. You can then paste it in the `Description` field at the top to continue reviewing or submit it.
 
 <img width="1133" alt="Screenshot 2025-01-24 at 13 13 28" src="https://github.com/user-attachments/assets/0c280933-ff0b-4a6f-918d-8a167d64005c" />
 
