@@ -1,4 +1,4 @@
-# Volvo Demo Deontic
+# Writing Requirements with Deontic
 
 This is the documentation for the demo of Deontic's Requirement Writing tool at Volvo. The goal of this demo is to collect feedback on the reviewing capabilities of this tool. It will run for 4 weeks, starting on Monday January 27th, 2025.
 
